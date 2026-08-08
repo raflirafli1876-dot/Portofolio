@@ -214,6 +214,13 @@
         .contact-item:hover {
             background: #e8f0ff;
         }
+        /* icon logo */
+        .icon-logo {
+            width: 25px;
+            height: 25px;
+            margin-right: 10px;
+            border-radius: 50%;
+        }
 
         /* Style untuk tombol download CV */
         .download-btn {
