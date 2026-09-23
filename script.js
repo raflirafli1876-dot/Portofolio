@@ -1,13 +1,13 @@
 // JavaScript untuk animasi dan interaktivitas
 
-// Fungsi untuk download CV (demo)
-function downloadCV() {
-  // Menampilkan alert karena ini hanya demo
-  alert("Fitur download CV akan tersedia setelah CV disiapkan!");
+// // Fungsi untuk download CV (demo)
+// function downloadCV() {
+//   // Menampilkan alert karena ini hanya demo
+//   alert("Fitur download CV akan tersedia setelah CV disiapkan!");
 
-  // Dalam implementasi nyata, bisa menggunakan:
-  // window.open('path/to/cv.pdf', '_blank');
-}
+//   // Dalam implementasi nyata, bisa menggunakan:
+//   // window.open('path/to/cv.pdf', '_blank');
+// }
 
 // Animasi untuk skill tags saat halaman dimuat
 document.addEventListener("DOMContentLoaded", function () {
